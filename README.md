@@ -2,4 +2,4 @@
 
 This is a demonstration of GitHub
 
-More information
+This should look like something else
